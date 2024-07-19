@@ -16,7 +16,7 @@ local button = main --> Basalt returns an instance of the object on most methods
         :setText("Click me!")
         :onClick(
             function()
-                basalt.debug("I got clicked!")
+                basalt.debug("He got clicked!")
             end)
 
 basalt.autoUpdate()
