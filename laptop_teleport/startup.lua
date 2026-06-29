@@ -1,2 +1,2 @@
 print("Running Teleport Service")
-shell.run("tpv.lua")
+shell.run("gui_teleport_v2.lua")
